@@ -4,7 +4,6 @@
     align-items: center;
     padding: 15px;
     border-bottom: 2px solid #f0e9e9;
-    background-color: #fffafa;
   }
   
   .contactAlign {
@@ -24,6 +23,5 @@
   
   .btnDelete:hover {
     background-color: #fca4b7;
-    transform: scale(1.05);
   }
   
